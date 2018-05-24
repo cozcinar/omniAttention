@@ -12,13 +12,13 @@ Understanding of visual attention is crucial for ODV viewed for instance with a 
 ![result](img/result.png)
 
 ### Downloads
-[DataSet](https://drive.google.com/open?id=1Fwu3nihR7CkA54tae63I678vHzUsQZ9m)
+[DataSet](https://github.com/cozcinar/omniAttention/blob/master/dataset.tar.gz)
 
 ### Citation
 
 | ![qomex logo](img/qomexLogo.png) | Paper accepted in [10th International Conference on Quality of Multimedia Experience (QoMEX 2018) ](https://www.qomex2018.org/) |
 
-Please cite our [paper]() in your publications if it helps your research:
+Please cite our [paper](https://github.com/cozcinar/omniAttention/blob/master/OmniAttention2018.pdf) in your publications if it helps your research:
 ````
 @inproceedings{Ozcinar2018,
 title = {Visual Attention in Omnidirectional Video for Virtual Reality Applications},
