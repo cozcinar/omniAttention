@@ -13,6 +13,7 @@ Understanding of visual attention is crucial for ODV viewed for instance with a 
 
 ### Downloads
 [DataSet](https://github.com/cozcinar/omniAttention/blob/master/dataset.tar.gz)
+
 *News* you can use clustering code (ParsingStats_DBSCAN.ipynb) in order to generate visual attention per frame.
 For this, you would need to run jupyter notebook.
 
